@@ -110,9 +110,17 @@ ggplot(data = staff_long,
 ```{r bad-line-plot}
 # Write your code for Exercise 4 here
 
+ggplot(data = staff_long,
+       mapping = aes(x = Year, 
+                     y = percent, 
+                     colour = faculty_type)) +
+  geom_line()
+
 
 
 ```
+
+-There are no lines on the graph.
 
 ## Exercise 5
 
