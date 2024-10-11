@@ -21,11 +21,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
-
-
-
-
+_Should be standardized with notation as comma can be seen differentley in different countries_
 
 ## Image 2
 
@@ -33,7 +29,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+_Data misleading and unclear as to significance/values_
 
 
 
@@ -44,7 +40,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+_Nonsensical, unreadable and unclear as to what data is showing or referring to_
 
 
 
@@ -55,7 +51,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+_Unclear as to category classification or to what countries entail which groups._
 
 
 
