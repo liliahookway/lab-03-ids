@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Lilia, Benya, Taras, Zaki Mulube, Ragul Dinesh and Ben Stenton - Team Name"
+author: "Lilia, Benya, Taras, Zaki Mulube, Ragul Dinesh and Ben Stenton - Super Mario Fanclub"
 date: "`r Sys.Date()`"
 output: html_document
 ---
