@@ -97,8 +97,11 @@ staff_long <- staff %>%
 
 ```{r dot-plot}
 # Write your code for Exercise 3 here
-
-
+ggplot(data = staff_long,
+       mapping = aes(x = Year, 
+                     y = percent, 
+                     colour = faculty_type)) +
+  geom_point()
 
 ```
 
